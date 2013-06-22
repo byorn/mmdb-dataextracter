@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<projectSuggestions>
+<declaringtype type="foss.app.dataextracter.RegExGroovyScriptForBlog">
+<property isActive="true" isStatic="false" name="myPattern" type="java.lang.String">
+<doc/>
+</property>
+</declaringtype>
+</projectSuggestions>
